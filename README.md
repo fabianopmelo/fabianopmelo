@@ -1,7 +1,7 @@
 ### Hey, I'm Fabiano! :smiley:
-#Brasileiro, Adminsitrador e atualmente Gerente Comercial.
+Brasileiro, Administrador e atualmente Gerente Comercial.
 
-* De Fortaleza/ Ceará - Brasil *
+* De Fortaleza/ Ceará - Brasil 
 * Formando em Administração de Empresas
 
 
