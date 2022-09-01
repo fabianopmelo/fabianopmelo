@@ -1,5 +1,5 @@
 ### Hey, I'm Fabiano! 👋
-
+#Brasileiro, Adminsitrador e atualemnte Gerente Comercial.
 
 
 <!--
