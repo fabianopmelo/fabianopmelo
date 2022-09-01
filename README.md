@@ -1,8 +1,9 @@
-### Hey, I'm Fabiano! :smiley:
-Brasileiro, Administrador e atualmente Gerente Comercial.
+### Oi, sou Fabiano! :smiley:
+## Brasileiro, Administrador e Gerente Comercial.
 
-* De Fortaleza/ Ceará - Brasil 
-* Formando em Administração de Empresas
+:earth_americas: De Fortaleza/ Ceará - Brasil 
+* :student:Formando em Administração de Empresas.
+* :technologist: Estudando Desenvolvedor Fullstack e Designer e Criação na Digital College 2022-2023.
 
 
 <!--
