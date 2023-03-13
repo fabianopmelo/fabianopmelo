@@ -3,7 +3,7 @@
 
 :earth_americas: Fortaleza/ Ceará - Brasil 
 * :student:Formando em Administração de Empresas.
-* :technologist: Estudando Desenvolvedor Fullstack e Designer e Criação na Digital College 2022-2023.
+* :technologist: Estudando Data Analytcs na Digital College 2023-2024.
 
 
 <!--
