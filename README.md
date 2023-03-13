@@ -3,7 +3,7 @@
 
 :earth_americas: Fortaleza/ Ceará - Brasil 
 * :student:Formando em Administração de Empresas.
-* :technologist: Estudando Data Analytcs na Digital College 2023-2024.
+* :technologist: Estudando Data Analytics na Digital College 2023-2024.
 
 
 <!--
