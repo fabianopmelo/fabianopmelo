@@ -2,7 +2,7 @@
 ## Brasileiro, Administrador e Gerente Comercial.
 
 :earth_americas: Fortaleza/ Ceará - Brasil 
-* :student:Formando em Administração de Empresas.
+* :student:Formado em Administração de Empresas.
 * :technologist: Estudando Data Analytics na Digital College 2023-2024.
 
 
