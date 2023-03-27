@@ -1,9 +1,12 @@
 ### Oi, sou Fabiano Melo! :smiley:
 ## Brasileiro, Administrador e Gerente Comercial.
 
+
 :earth_americas: Fortaleza/ Ceará - Brasil 
 * :student:Formado em Administração de Empresas.
-* :technologist: Estudando Data Analytics na Digital College 2023-2024.
+* :technologist: Estudando Data Analytics na Digital College 2023-2024.     
+* 
+ ![image](https://user-images.githubusercontent.com/112489026/228009672-8799aced-2c54-4f5d-bdf8-95828441ce82.png)
 
 ## Social
 ![image](https://user-images.githubusercontent.com/112489026/228009108-f7762be8-b82f-46d4-90f9-2e6980ef48f6.png)
