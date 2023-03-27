@@ -11,7 +11,7 @@
 ## Social
 ![image](https://user-images.githubusercontent.com/112489026/228009108-f7762be8-b82f-46d4-90f9-2e6980ef48f6.png)
 ![image](https://user-images.githubusercontent.com/112489026/228009230-034ff6fa-f311-4b58-a6a0-8b6b217f387a.png)
-![image](https://user-images.githubusercontent.com/112489026/228009389-eff42b33-888e-4cb8-ad90-9f4cb83f8060.png)
+
 
 
 <!--
