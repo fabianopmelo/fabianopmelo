@@ -5,11 +5,16 @@
 :earth_americas: Fortaleza/ Ceará - Brasil 
 * :student:Formado em Administração de Empresas.
 * :technologist: Estudando Data Analytics na Digital College 2023-2024.     
-* 
+
 
 ## Social
-![image](https://user-images.githubusercontent.com/112489026/228009108-f7762be8-b82f-46d4-90f9-2e6980ef48f6.png)
+<a href="https://instagram.com/https://www.instagram.com/fabianopmelo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 ![image](https://user-images.githubusercontent.com/112489026/228009230-034ff6fa-f311-4b58-a6a0-8b6b217f387a.png)
+![image](https://user-images.githubusercontent.com/112489026/228021395-7db6f63d-fef9-48e6-a33c-061c916cc8c0.png)
+     
+     
+## Estudando     
+
 
 
 
